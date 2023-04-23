@@ -1,10 +1,10 @@
-package com.xuecheng.base;
+package com.xuecheng.content.service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class XuechengPlusBaseApplicationTests {
+class XuechengPlusContentServiceApplicationTests {
 
     @Test
     void contextLoads() {
